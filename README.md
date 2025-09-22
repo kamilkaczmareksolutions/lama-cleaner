@@ -1,4 +1,4 @@
-# lama-cleaner
+włączyć docker, w bashu:
 
 ```
 docker run -p 8080:8080 \
@@ -8,4 +8,4 @@ docker run -p 8080:8080 \
   lama-cleaner --device=cpu --port=8080 --host=0.0.0.0
 ```
 
-http://localhost:8080
+i potem: http://localhost:8080
